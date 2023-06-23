@@ -17,6 +17,9 @@ const projetss = [
                 img: 'redux.png'
             },
             {
+                img:'next.png'
+            },
+            {
                 img: 'tailwind1.png'
             }
         ],

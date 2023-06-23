@@ -24,7 +24,7 @@ export default function About({}: Props) {
         }}
         whileInView={{opacity: 1 , x:0}}
         viewport={{ once:true}}
-        src="https://i.im.ge/2022/09/22/1hPV3D.resume.png"
+        src="resume3.jpg"
         className='-mb-20 md:mb-0 flex-shrink-0 w-36 h-36 rounded-full object-cover
         md:rounded-lg md:w-65 md:h-95 xl:w-[450px] xl:h-[450px]'
         />

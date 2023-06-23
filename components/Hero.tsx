@@ -21,7 +21,7 @@ export default function Hero({}: Props) {
             <BackgroundCircle/>
             <img
              className='relative rounded-full h-32 w-32 mx-auto object-cover' 
-             src="https://i.im.ge/2022/09/22/1hPV3D.resume.png"
+             src="resume.jpg"
              alt="Mr.TEB"
             />
             <div className='z-20'>

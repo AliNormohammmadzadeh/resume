@@ -50,7 +50,7 @@ export default function Projects({}: Props) {
                 Project {i+1} of {projects.length}: &nbsp;
                 <span className='underline decoration-[#F7AB0A]/50' >{project.name}</span> 
               </h4>
-              <p className='text-sm text-center md:text-left md:text-[14px] lg:text-lg '>
+              <p className='text-sm text-center md:text-left md:text-[14px] lg:text-lg text-ellipsis'>
                 {project.description}
               </p>
             </div>
